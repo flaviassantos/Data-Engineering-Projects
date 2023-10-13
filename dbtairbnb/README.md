@@ -29,3 +29,5 @@ In this project, we will act as if you were an analytics engineer in Airbnb resp
 - Dataset import
 - dbt installation
 - dbt setup, snowflake connection
+
+
