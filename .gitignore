@@ -1,0 +1,8 @@
+/tmp
+.git
+
+.env
+*/.env
+
+/venv
+logs/dbt.log
