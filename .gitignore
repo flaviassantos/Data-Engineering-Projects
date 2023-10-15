@@ -6,3 +6,5 @@
 
 /venv
 logs/dbt.log
+
+.idea
